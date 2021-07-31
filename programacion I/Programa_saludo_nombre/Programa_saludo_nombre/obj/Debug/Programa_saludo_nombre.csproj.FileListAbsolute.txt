@@ -1,0 +1,7 @@
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\bin\Debug\Programa_saludo_nombre.exe.config
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\bin\Debug\Programa_saludo_nombre.exe
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\bin\Debug\Programa_saludo_nombre.pdb
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\obj\Debug\Programa_saludo_nombre.csproj.AssemblyReference.cache
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\obj\Debug\Programa_saludo_nombre.csproj.CoreCompileInputs.cache
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\obj\Debug\Programa_saludo_nombre.exe
+C:\Users\julissa\Documents\programacion I\Programa_saludo_nombre\Programa_saludo_nombre\obj\Debug\Programa_saludo_nombre.pdb

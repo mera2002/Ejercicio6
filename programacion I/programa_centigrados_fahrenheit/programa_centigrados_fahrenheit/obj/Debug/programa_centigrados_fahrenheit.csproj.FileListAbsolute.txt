@@ -1,0 +1,7 @@
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\bin\Debug\programa_centigrados_fahrenheit.exe.config
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\bin\Debug\programa_centigrados_fahrenheit.exe
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\bin\Debug\programa_centigrados_fahrenheit.pdb
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\obj\Debug\programa_centigrados_fahrenheit.csproj.AssemblyReference.cache
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\obj\Debug\programa_centigrados_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\obj\Debug\programa_centigrados_fahrenheit.exe
+C:\Users\julissa\Documents\programacion I\programa_centigrados_fahrenheit\programa_centigrados_fahrenheit\obj\Debug\programa_centigrados_fahrenheit.pdb
