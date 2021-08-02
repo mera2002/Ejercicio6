@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//VICTOR RICARDO ALVAREZ SARAVIA 
 //MERARY JULISSA ARAUJO VELASQUEZ 
 
 namespace calculo_de_notas
