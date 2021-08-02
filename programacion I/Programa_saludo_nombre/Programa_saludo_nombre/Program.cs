@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//VICTOR RICARDO ALVAREZ SARAVIA 
+//MERARY JULISSA ARAUJO VELASQUEZ 
+
 namespace Programa_saludo_nombre
 {
     class Program
